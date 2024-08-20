@@ -1,5 +1,6 @@
 Check out my portfolio: 
-[![Morote](https://smorote.com/img/Morote_white_underline.svg|height=20)](https://smorote.com)
+
+[<img src="https://smorote.com/img/Morote_white_underline.svg" height="25">](https://smorote.com)
 <br/>
 <br/>
 ![Visitor Count](https://profile-counter.glitch.me/Grazerquart/count.svg)
