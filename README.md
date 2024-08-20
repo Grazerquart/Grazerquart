@@ -1,9 +1,13 @@
-Check out my portfolio: 
+[<img src="https://smorote.com/img/Morote_white_underline.svg" height="50">](https://smorote.com)
 
-[<img src="https://smorote.com/img/Morote_white_underline.svg" height="35">](https://smorote.com)
+---
 
-<br/>
-<br/>
+Morning!
+
+
+I'm a full stack dev living in the US. I spend most of my time working on applications and websites built around CI/CD workflows. 
+
+I'm currently working on a telegram bot in Go, and working on a few websites written in C# with Microsoft Blazor.
 
 ---
 
