@@ -9,6 +9,7 @@ I'm a full stack dev living in the US. I spend most of my time working on applic
 
 I'm currently working on a telegram bot in Go, and working on a few websites written in C# with Microsoft Blazor.
 
+Check out my blog here! [Blog](https://blog.smorote.com/)
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/Grazerquart/count.svg)
